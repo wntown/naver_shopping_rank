@@ -1,4 +1,4 @@
-naver_shopping_rank
+## n_shopping_rank
 
 네이버쇼핑 Open API 기반 순위 조회 모듈입니다.
 
